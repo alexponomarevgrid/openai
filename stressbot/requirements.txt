@@ -1,0 +1,6 @@
+flask
+kubernetes
+pyyaml
+redis
+pyTelegramBotAPI
+openai
